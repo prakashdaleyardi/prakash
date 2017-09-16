@@ -136,9 +136,6 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="zxing.portable">
-      <HintPath>..\..\bin\zxing.portable.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\prakash\prakash.csproj">
